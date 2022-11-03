@@ -12,7 +12,7 @@ int main()
 	for (j = 0; j < 5; j++)
 	{
 		scanf("%s", &toy[j]);
-	}
+	} 
 
 	for (i = 0; i < 15; i++) {
 		for (j = 0; j < 5; j++) {
